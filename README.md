@@ -6,7 +6,7 @@ A small C# SpecFlow + Selenium suite targeting the public practice site
 ## Prerequisites
 - .NET SDK 8.0
 - Google Chrome (recent version)
-- An IDE (Visual Studio recommended) or just the CLI
+- An IDE (Visual Studio recommended)
 - Internet access (the suite drives the live SauceDemo site; Selenium Manager
   downloads the matching driver automatically)
 
